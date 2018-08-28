@@ -1,12 +1,12 @@
 public class main {
     public static void main(String[] args){
 
-        byte bOne = 17;
-        short sOne = 67;
-        int iNum = 54;
-        long lNum = 2157684L;
-        float fNum = 2.6f;
-        double dNum = 1.2;
+        byte bOne = 67;
+        short sOne = 72;
+        int iNum = 17;
+        long lNum = 256368L;
+        float fNum = 15f;
+        double dNum = 22d;
         boolean bFlag = false;
         char cDigit = 'b';
 
